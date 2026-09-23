@@ -41,7 +41,7 @@ I design detection and response systems that combine machine learning, automatio
 - 🛡️ **[AI-Automated-Security-Engineer](https://github.com/Mangesh-Bhattacharya/AI-Automated-Security-Engineer)** — Vulnerability scanning, threat detection, and automated remediation reporting with ML/NLP
 - ☁️ **[canarie-aws-cloud-threat-intelligence-project](https://github.com/Mangesh-Bhattacharya/canarie-aws-cloud-threat-intelligence-project)** — AWS + ELK Stack observability and threat-intelligence pipeline for SMEs
 - 🔒 **[Ransomware-Detection-System](https://github.com/Mangesh-Bhattacharya/Ransomware-Detection-System)** — Real-time file/process monitoring with automated alerting and protective response
-- ⚔️ **[PTAF](https://github.com/Mangesh-Bhattacharya/Purple-Team-Automation-Framework)** — AI-driven Purple Team automation framework for offensive simulation and defensive detection engineering
+- ⚔️ **[Purple Team Automation Framework (PTAF)](https://github.com/Mangesh-Bhattacharya/Purple-Team-Automation-Framework)** — AI-driven Purple Team automation framework for offensive simulation and defensive detection engineering
 - 📡 **[threat-intelligence-data-analysis](https://github.com/Mangesh-Bhattacharya/threat-intelligence-data-analysis)** — Threat intelligence platform with AI anomaly detection and a real-time Streamlit dashboard
 
 ---
