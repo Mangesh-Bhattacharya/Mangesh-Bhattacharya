@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" font-family="Inter, DejaVu Sans, Arial, sans-serif"><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.6"><stop offset="0" stop-color="#a78bfa" stop-opacity=".28"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="1600" height="400" fill="#0b1020"/><rect width="1600" height="400" fill="url(#grid)"/>
+<ellipse cx="1248.0" cy="80.0" rx="560.0" ry="360.0" fill="url(#glow)"/>
+<g transform="translate(1330,200) scale(2.2)"><path d="M0-60 52-40V8C52 38 28 56 0 66-28 56-52 38-52 8V-40Z" fill="none" stroke="url(#g)" stroke-width="5" stroke-linejoin="round"/><path d="M-20 4 -6 18 22-14" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="90" y="150" font-size="26" letter-spacing="8" fill="#22d3ee">&gt; whoami</text>
+<text x="90" y="240" font-size="84" font-weight="800" letter-spacing="14" fill="#e6edf3">M A N G E S H</text>
+<text x="90" y="300" font-size="32" fill="#7d8590">Cybersecurity Engineer  •  AI Threat Detection  •  Cloud Security</text>
+<rect x="90" y="330" width="260" height="5" rx="2.5" fill="url(#g)"/></svg>
