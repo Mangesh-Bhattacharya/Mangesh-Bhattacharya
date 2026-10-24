@@ -64,6 +64,31 @@ I design detection and response systems that combine machine learning, automatio
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mangesh-Bhattacharya&theme=github_dark" width="100%" alt="Profile details" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mangesh-Bhattacharya&theme=github_dark&utcOffset=-4" width="100%" alt="Productive time" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mangesh-Bhattacharya&theme=github_dark" width="100%" alt="Most commit language" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## Featured Projects
 
 <div align="center">
